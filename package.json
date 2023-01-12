@@ -42,7 +42,7 @@
     "@angular/platform-browser": "13.3.6",
     "@angular/platform-browser-dynamic": "13.3.6",
     "@angular/router": "13.3.6",
-    "@deck.gl/core": "8.8.20",
+    "@deck.gl/core": "8.8.22",
     "@deck.gl/layers": "8.7.12",
     "@deck.gl/mapbox": "8.7.12",
     "@mapbox/mapbox-gl-language": "^1.0.0",

@@ -1639,10 +1639,10 @@
     enabled "2.0.x"
     kuler "^2.0.0"
 
-"@deck.gl/core@8.8.20":
-  version "8.8.20"
-  resolved "https://registry.yarnpkg.com/@deck.gl/core/-/core-8.8.20.tgz#7f9375e70df8c5307ace352ba4fe599db94b3a43"
-  integrity sha512-lEvK55OLyNwrrKJ5oMDb2yCbMPhmpEkh77tIi5Ip9ZO4ptqKPbN/SFvHowHHat1HlaO1wL37JB6rEFgJfooezg==
+"@deck.gl/core@8.8.22":
+  version "8.8.22"
+  resolved "https://registry.yarnpkg.com/@deck.gl/core/-/core-8.8.22.tgz#845bb9518c269a0f670c69f488fca96b970cf256"
+  integrity sha512-fvtzg7uCYdqwdwv1avTxOoVL7LZOhpHyWtwVSTXcmYARXCzhM4z7R4d6ytUEmg8dWErGIzDFCuKP+EsQHs+/6Q==
   dependencies:
     "@loaders.gl/core" "^3.2.10"
     "@loaders.gl/images" "^3.2.10"
